@@ -1,3 +1,3 @@
 # QR code component solution
 
-new-test-repo
+new-test-repo 2 
